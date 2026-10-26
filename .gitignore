@@ -1,0 +1,36 @@
+# Visual Studio
+.vs/
+**/.vs/
+**/x64/
+**/Win32/
+**/Debug/
+**/Release/
+**/ipch/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.ipch
+*.pdb
+*.obj
+*.pch
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.exe
+*.log
+*.tmp
+
+# Build and local output
+build/
+out/
+*.cache
+*.db
+*.db-shm
+*.db-wal
+
+# vcpkg dependencies
+vcpkg_installed/
